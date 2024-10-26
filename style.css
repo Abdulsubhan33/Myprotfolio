@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box; /* Ensures padding and borders are included in width/height */
+  
 }
 
 body {
@@ -37,6 +38,7 @@ nav ul li a:hover {
     color: rgb(116, 116, 223);
     font-size: 1.03rem;
 }
+
 
 main hr {
     border: 0;
